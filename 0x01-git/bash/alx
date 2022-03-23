@@ -1,2 +1,6 @@
 #!/bit/bash[D[D[D[D[n[C[C[C[C[C
+<<<<<<< HEAD
 echo "ALX school is so cool"
+=======
+echo "ALX School"
+>>>>>>> update_script
